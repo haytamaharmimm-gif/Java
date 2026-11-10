@@ -1,2 +1,3 @@
-# Java
-Ejercicios FP DAW
+Habilidades tecnologicas
+
+JAVA,HTML,CSS,C#
